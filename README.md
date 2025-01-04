@@ -38,11 +38,12 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+### output
+![Screenshot 2025-01-04 131630](https://github.com/user-attachments/assets/67811271-377f-47d1-9560-1f076183994e)
+![Screenshot 2025-01-04 131643](https://github.com/user-attachments/assets/b6c52f52-4765-472c-b491-4f86e8c17733)
+![Screenshot 2025-01-04 131653](https://github.com/user-attachments/assets/97ef0b7e-6502-40a4-9d29-8e2ce3fe7b29)
 ![Screenshot 2024-12-18 182745](https://github.com/user-attachments/assets/8ff4a33e-c238-43ca-9101-0c2ef96adcb6)
+
 
 
 ### Name: PRAGATHI KUMAR
